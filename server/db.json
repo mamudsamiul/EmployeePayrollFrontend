@@ -1,0 +1,23 @@
+{
+    "employee":[
+    {
+        "name":"samiul",
+        "id":1234,
+        "department":"as",
+        "gender":"M",
+        "notes":"",
+        "profile":"dsds",
+        "salary":123232,
+        "start-date":"de"
+    },
+    {
+        "name":"samiul",
+        "id":124,
+        "department":"as",
+        "gender":"M",
+        "notes":"",
+        "profile":"dsds",
+        "salary":123232,
+        "start-date":"de"
+    }]
+}
